@@ -1,0 +1,6 @@
+GTA-PVLCXAID1   	:   电动电机驱动(蓝牙平板)
+GTA-PVLCXAIDX   	:   油电混动电机驱动(蓝牙平板)
+Peoject_carOP_A		:   并联电机施教流水灯
+Peoject_carOP_B		:   串联电机施教流水灯
+Peoject_carOP_AB	:   混联电机施教流水灯
+Peoject_carOP_Box	:   施教箱流水灯
